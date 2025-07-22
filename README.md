@@ -1,6 +1,6 @@
 # Kitae Kim
 Data Scientist & Machine Learning Engineer | Supercent  
-University of Chicago, MS (USA IL Chicago / 2023-2024)
+University of Chicago, MS (USA IL Chicago / 2023-2024)  
 📧 edwin@supercent.io | 📍 Seoul, South Korea
 
 ## Experience
