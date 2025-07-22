@@ -1,10 +1,11 @@
 # Kitae Kim
-**Machine Learning Engineer** | Supercent  
-📧 kitae.kim@supercent.com | 📍 Seoul, South Korea
+Data Scientist & Machine Learning Engineer | Supercent  
+📧 edwin@supercent.io | 📍 Seoul, South Korea
 
 ## Experience
-- **Supercent** (2020-present): ML Engineer
-- **[Previous]** (2018-2020): Data Analyst
+- Supercent (2025-present): Data Scientist
+- KPMG (2023-2023): Data Scientist
+- Hyundai Motor Group (2019-2023): Data Scientist
 
 ## Publications
 - Time-series Machine Learning Models to Support
