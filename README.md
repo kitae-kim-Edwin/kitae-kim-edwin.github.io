@@ -11,4 +11,4 @@ University of Chicago, MS (2023-2024 / USA IL Chicago)
 
 ## Publications
 - Time-series Machine Learning Models to Support
-Emergency Department Operational Planning (AMIA 2025, USA)
+Emergency Department Operational Planning (AMIA 2025, USA, Accepted)
